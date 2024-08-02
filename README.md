@@ -44,8 +44,20 @@
     - [판다스](https://github.com/qkrskdusdlqslek/IoT-bigdata-2024/blob/main/day1/bda02_pandas_basic.ipynb)
     - [맷플롭립](https://github.com/qkrskdusdlqslek/IoT-bigdata-2024/blob/main/day1/bda03_matplotlib_basic.ipynb)
 
-
 ## 2일차
+- 빅데이터 학습
+    - 기초학습, 크롤링 관련
+    - 셀레니움 + 뷰티풀수프 같이 진행
+    - [뷰티풀수프]()
+    - [셀레니움]()
+
+- 빅데이터 실습
+    - 스타벅스 입지 분석
+    - [스벅입지분석]()
+
+
+
+
 
 ## 3일차
 
