@@ -48,18 +48,17 @@
 - 빅데이터 학습
     - 기초학습, 크롤링 관련
     - 셀레니움 + 뷰티풀수프 같이 진행
-    - [뷰티풀수프]()
-    - [셀레니움]()
+    - [뷰티풀수프](https://github.com/qkrskdusdlqslek/IoT-bigdata-2024/blob/main/day1/bda04_beautifulsoup_basic.ipynb)
+    - [셀레니움](https://github.com/qkrskdusdlqslek/IoT-bigdata-2024/blob/main/day1/bda05_selenium_basic.ipynb)
 
 - 빅데이터 실습
     - 스타벅스 입지 분석
-    - [스벅입지분석]()
-
-
-
-
+    - [스벅입지분석](https://github.com/qkrskdusdlqslek/IoT-bigdata-2024/blob/main/day1/bda06_starbucks_analysis.ipynb)
 
 ## 3일차
+- 개인 토이프로젝트
+    - 깃헙 리포지토리, 빅데이터, 머신러닝, 딥러닝 래퍼런스를 참조 -> 클로닝형태
+    - 리포지토리 10개 정도 리스트업 또는 리포지토리 검색해서 진행
 
 ## 4일차
 
